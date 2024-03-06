@@ -1,0 +1,22 @@
+.container {
+  border-radius: 25px;
+  height: 30rem;
+}
+.container .buttons {
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+.container .buttons button {
+  cursor: pointer;
+  padding: 0.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container .art-piece-ctnr {
+  margin-top: 2rem;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */
